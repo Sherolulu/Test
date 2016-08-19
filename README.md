@@ -1,2 +1,1 @@
-# Test
-my first test on github
+This document is a text document.
